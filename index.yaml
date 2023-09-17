@@ -3,7 +3,17 @@ entries:
   examplechart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-17T12:38:34.044276+02:00"
+    created: "2023-09-17T12:42:30.88394+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 2fcf508c6c65232099c84cb0406f24b212b91eac283c861f4ecd6d66c19ab3e8
+    name: examplechart
+    type: application
+    urls:
+    - https://andrea-mosk.github.io/public-chart-repo/examplechart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-17T12:42:30.883583+02:00"
     description: A Helm chart for Kubernetes
     digest: ccc6be8b41f91c203b1360a0f94b4d0e0d4a499402e2f08ce1dcd6d8dddea42b
     name: examplechart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://andrea-mosk.github.io/public-chart-repo/examplechart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-17T12:38:34.043762+02:00"
+generated: "2023-09-17T12:42:30.883056+02:00"
